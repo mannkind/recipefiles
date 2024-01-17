@@ -8,6 +8,8 @@ Recipe sourced from [root simple](https://www.rootsimple.com/2021/01/a-simple-an
 * 9 grams salt
 * 263 grams water
 * 453 grams bread flour
+* Molasses
+* Toppings (optional): garlic, sesame, poppy, etc
 
 ## Time
 
@@ -33,4 +35,5 @@ Recipe sourced from [root simple](https://www.rootsimple.com/2021/01/a-simple-an
 * Bulk ferment for 1.5 hours in a covered bowl at room temperature
 * Divide the dough into 113 gram pieces and shape into bagels
 * Cover and store in the refrigerator for 12 hours
+* Boil the bagels in a water/molasses mixture for 30s on each side
 * Bake in the oven at 450F for 17 minutes
