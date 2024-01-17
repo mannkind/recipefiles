@@ -16,7 +16,7 @@ Recipe sourced from [root simple](https://www.rootsimple.com/2021/01/a-simple-an
 * preperation: 20m
 * fermentation: 1.5h
 * refrigeration: 12h
-* baking: 25m
+* boiling/baking: 25m
 
 ## Cookware
 
