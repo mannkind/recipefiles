@@ -1,4 +1,4 @@
-# Golden Frice Rice
+# Golden Fried Rice
 
 Recipe sourced from [aaron & claire](https://aaronandclaire.com/8-new-ways-to-enjoy-egg-recipes/)
 
